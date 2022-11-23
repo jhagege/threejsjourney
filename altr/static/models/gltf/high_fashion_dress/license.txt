@@ -1,0 +1,11 @@
+Model Information:
+* title:	High Fashion Dress
+* source:	https://sketchfab.com/3d-models/high-fashion-dress-0c15bf821a7546e7af4af3567a0efbdc
+* author:	mictab (https://sketchfab.com/Michela.Tabone)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "High Fashion Dress" (https://sketchfab.com/3d-models/high-fashion-dress-0c15bf821a7546e7af4af3567a0efbdc) by mictab (https://sketchfab.com/Michela.Tabone) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
